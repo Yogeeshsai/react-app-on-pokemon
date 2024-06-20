@@ -7,3 +7,5 @@ Install Axios for API requests:
 npm install axios
 Step 2: Set Up the Project Structure
 Create the following directory structure:
+Step 3: Create the Components
+1. Create PokemonCard.js
